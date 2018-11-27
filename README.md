@@ -1,4 +1,4 @@
-# Text-Mimicking-Program
+# Mimic
 
 Takes an input of text and outputs gibberish that sounds similar to the input text.
 
